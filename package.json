@@ -1,0 +1,24 @@
+{
+  "name": "samlify",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000s\u0000a\u0000m\u0000l\u0000i\u0000f\u0000y\u0000 \u0000r\u0000m\u0000b\u0000m\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dan-Abitbol/samlify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dan-Abitbol/samlify/issues"
+  },
+  "homepage": "https://github.com/Dan-Abitbol/samlify#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "serve-static": "^1.14.1"
+  }
+}
